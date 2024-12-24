@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="350dp"
+    android:background="@drawable/rank_frame"
+    android:layout_height="250dp">
+    <EditText
+        android:id="@+id/password"
+        android:hint="Password"
+        android:layout_width="match_parent"
+        android:inputType="textPassword"
+        android:layout_height="wrap_content"></EditText>
+    <EditText
+        android:id="@+id/passwordnew"
+        android:hint="New Password"
+        android:layout_width="match_parent"
+        android:inputType="textPassword"
+        android:layout_height="wrap_content"></EditText>
+    <EditText
+        android:id="@+id/passwordnewconfirm"
+        android:hint="New Password Confirm"
+        android:layout_width="match_parent"
+        android:inputType="textPassword"
+        android:layout_height="wrap_content"></EditText>
+
+    <Button
+        android:id="@+id/thayPass"
+        android:layout_width="212dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Thay Đổi"></Button>
+    <Button
+        android:id="@+id/btnBackthayPass"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Back?"></Button>
+</LinearLayout>
