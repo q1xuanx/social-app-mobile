@@ -1,9 +1,7 @@
 ![rimberio-removebg-preview 1](https://github.com/user-attachments/assets/1b7f0ff5-33bc-44df-82c2-33e2cae56ac1)
 [![Code Quality](https://img.shields.io/badge/code%20quality-A-brightgreen.svg)](https://github.com/)
 [![Language](https://img.shields.io/badge/language-Java-orange.svg)](https://github.com/)
-[![Contributors](https://img.shields.io/github/contributors/username/repository.svg)](https://github.com/username/repository/graphs/contributors)
-[![GitHub stars](https://img.shields.io/github/stars/username/repository.svg)](https://github.com/username/repository/stargazers)
-
+[![Contributors](https://img.shields.io/github/contributors/q1xuanx/social-app-mobile.svg)](https://github.com/q1xuanx/social-app-mobile/graphs/contributors)
 ## Game Social Network
 This project is a social network platform specifically designed for gamers
 ## Features
