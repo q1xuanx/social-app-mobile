@@ -20,8 +20,8 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.0"
-        app:srcCompat="@drawable/login_logo"
-        appid="@drawable/minh_chien" />
+        app:srcCompat="@drawable/minhchien"
+        appid="@drawable/hoangnhan" />
 
     <TextView
         android:id="@+id/forgetPass"
