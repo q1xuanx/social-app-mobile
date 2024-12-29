@@ -20,8 +20,13 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.0"
+<<<<<<< HEAD
         app:srcCompat="@drawable/ic_launcher_foreground"
         app:id="@drawable/helloVietNam" />
+=======
+        app:srcCompat="@drawable/nhom_omega3_test"
+    />
+>>>>>>> ae48a39 (conflict)
 
     <TextView
         android:id="@+id/forgetPass"
